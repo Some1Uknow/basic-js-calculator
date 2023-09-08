@@ -2,6 +2,8 @@
 
 This is a simple web-based calculator that allows you to perform basic arithmetic calculations. You can enter two numbers and an operator, and the calculator will display the result.
 
+https://some1uknow.github.io/basic-js-calculator/
+
 ## Features
 
 - Addition (`+`)
